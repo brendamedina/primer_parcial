@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Anahuac</string>
+    <string name="hint_email_or_phone_number">Phone number or email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log in</string>
+    <string name="txt_need_help">Need Help</string>
+    <string name="txt_sign_up">Sign in</string>
+
+    <string name="txt_title_practice">Prácticas</string>
+    <string name="txt_login_facebook">Log in Facebook</string>
+
+    <string name="txt_sign_in">Sign in now</string>
+    <string name="btn_sign_in_netflix">Sign In</string>
+    <string name="txt_remember_netflix">Remember me</string>
+    <string name="txt_new_netflix">New to Netflix?</string>
+    <string name="sign_up_now_netflix">Sign up now</string>
+    <string name="txt_log_in_fb_netflix">Login with Facebook</string>
+
+    <string name="txt_anahuac_cancun">Universidad Anáhuac - Cancún</string>
+    <string name="txt_ver_mas">Ver más</string>
+
+    <string name="btn_alerta">Alerta</string>
+    <string name="btn_alert_with_button">Alerta con botones</string>
+    <string name="btn_alert_with_options">Alerta con opciones</string>
+
+
+    <string name="hint_my_mail">my@mail.com</string>
+    <string name="txt_login2">login</string>
+    <string name="forgot_password">forgot password?</string>
+
+    <string name="txt_horario">Horario de clases</string>
+    <string name="txt_materias">Materias</string>
+    <string name="txt_calificaciones">Calificaciones</string>
+    <string name="txt_pago">Pago de colegiaturas</string>
+    <string name="txt_nombre">Brenda Medina</string>
+    <string name="txt_mail">brenda.medina15@anahuac.mx</string>
+
+</resources>
